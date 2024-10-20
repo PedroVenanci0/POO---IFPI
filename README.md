@@ -16,8 +16,7 @@ Questões 02 - Métodos são as funções que descrevem os comportamentos dos ob
 
 Questão 03 - 
 
-![Screenshot_5](https://github.com/user-attachments/assets/df061ae0-8de2-4a7b-ab8e-5a436a3d0a94)
-
+![image](https://github.com/user-attachments/assets/d4f57505-a303-4788-8291-02a1f0bc0511)
 
 Questão 04 - 
 Sim, pois com isso facilitaria a retirada de informações do titular da conta em específico dependendo do sistema
