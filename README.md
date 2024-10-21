@@ -44,5 +44,19 @@ Time Atacante, Time defensor, Placar, Número de abates, Tempo, Mapas…
 Metodos:
 Iniciar partida, Finalizar partida, Avisos de vitória, derrota e tempo, Explodir mapa, desarmar Bomba…
 
+Questão 07 - 
+
+https://github.com/PedroVenanci0/POO---IFPI/tree/main/Atividade%20-%20POO/src/Questao_07
+
+Questão 08 - 
+
+https://github.com/PedroVenanci0/POO---IFPI/tree/main/Atividade%20-%20POO/src/Questao_08
+
+Questão 09 - 
+
+https://github.com/PedroVenanci0/POO---IFPI/tree/main/Atividade%20-%20POO/src/Questao_09
+
+Questão 10 - 
+
 ![image](https://github.com/user-attachments/assets/1ccfc548-1529-4207-b21c-381cc4d25781)
 
