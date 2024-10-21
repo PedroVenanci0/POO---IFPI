@@ -43,3 +43,6 @@ Time Atacante, Time defensor, Placar, Número de abates, Tempo, Mapas…
 
 Metodos:
 Iniciar partida, Finalizar partida, Avisos de vitória, derrota e tempo, Explodir mapa, desarmar Bomba…
+
+![image](https://github.com/user-attachments/assets/1ccfc548-1529-4207-b21c-381cc4d25781)
+
